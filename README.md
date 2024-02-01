@@ -7,6 +7,7 @@ Use in the following way.
 import typecheck
 typecheck.check("String")
 ```
-Output ```str```
+Output:
+```str```
 
 Compatible with all Python datatypes.
